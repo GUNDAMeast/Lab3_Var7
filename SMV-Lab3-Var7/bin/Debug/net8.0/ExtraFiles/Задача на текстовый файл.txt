@@ -1,0 +1,51 @@
+// Подсчитать количество вхождений максимального элемента в файл
+    StreamReader rstream = null;
+    string line;
+    double mx = Double.MinValue;
+    int cnt = 0;
+    try
+    {
+        rstream = new StreamReader(s);
+        line = rstream.ReadLine();
+        while (line != null)
+        {
+            bool success = double.TryParse(line, out double number);
+            if (success)
+            {
+                if (Convert.ToDouble(line) > mx)
+                {
+                    mx = Convert.ToDouble(line);
+                    line = rstream.ReadLine();
+                }
+            }
+            else
+            {
+                line = rstream.ReadLine();
+            }                    
+        }
+        while (line != null)
+        {
+            bool success = double.TryParse(line, out double number);
+            if (success)
+            {
+                if (Convert.ToDouble(line) == mx)
+                {
+                    cnt++;
+                    line = rstream.ReadLine();
+                }
+            }
+            else
+            {
+                line = rstream.ReadLine();
+            }
+        }
+        return cnt;
+    }
+    catch (Exception e)
+    {
+        Console.WriteLine("Файл не обнаружен!");
+    }
+    finally
+    {
+        rstream?.Close();
+    }

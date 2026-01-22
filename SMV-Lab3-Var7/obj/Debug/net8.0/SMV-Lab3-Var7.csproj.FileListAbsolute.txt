@@ -1,0 +1,28 @@
+C:\Users\user\source\repos\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.AssemblyInfo.cs
+C:\Users\user\source\repos\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SMV-Lab3-Var7\bin\Debug\net8.0\SMV-Lab3-Var7.exe
+C:\Users\user\source\repos\SMV-Lab3-Var7\bin\Debug\net8.0\SMV-Lab3-Var7.deps.json
+C:\Users\user\source\repos\SMV-Lab3-Var7\bin\Debug\net8.0\SMV-Lab3-Var7.runtimeconfig.json
+C:\Users\user\source\repos\SMV-Lab3-Var7\bin\Debug\net8.0\SMV-Lab3-Var7.dll
+C:\Users\user\source\repos\SMV-Lab3-Var7\bin\Debug\net8.0\SMV-Lab3-Var7.pdb
+C:\Users\user\source\repos\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.dll
+C:\Users\user\source\repos\SMV-Lab3-Var7\obj\Debug\net8.0\refint\SMV-Lab3-Var7.dll
+C:\Users\user\source\repos\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.pdb
+C:\Users\user\source\repos\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.genruntimeconfig.cache
+C:\Users\user\source\repos\SMV-Lab3-Var7\obj\Debug\net8.0\ref\SMV-Lab3-Var7.dll
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\bin\Debug\net8.0\SMV-Lab3-Var7.exe
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\bin\Debug\net8.0\SMV-Lab3-Var7.deps.json
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\bin\Debug\net8.0\SMV-Lab3-Var7.runtimeconfig.json
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\bin\Debug\net8.0\SMV-Lab3-Var7.dll
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\bin\Debug\net8.0\SMV-Lab3-Var7.pdb
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.AssemblyInfoInputs.cache
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.AssemblyInfo.cs
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.csproj.CoreCompileInputs.cache
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.dll
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\obj\Debug\net8.0\refint\SMV-Lab3-Var7.dll
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.pdb
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\obj\Debug\net8.0\SMV-Lab3-Var7.genruntimeconfig.cache
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab3-Var7\obj\Debug\net8.0\ref\SMV-Lab3-Var7.dll

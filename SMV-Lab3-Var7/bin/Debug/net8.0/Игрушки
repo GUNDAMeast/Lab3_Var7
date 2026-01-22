@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfToy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Toy>
+    <name>той1</name>
+    <price>10</price>
+    <minAge>1</minAge>
+    <maxAge>1</maxAge>
+  </Toy>
+  <Toy>
+    <name>той2</name>
+    <price>20</price>
+    <minAge>1</minAge>
+    <maxAge>1</maxAge>
+  </Toy>
+  <Toy>
+    <name>той3</name>
+    <price>30</price>
+    <minAge>1</minAge>
+    <maxAge>1</maxAge>
+  </Toy>
+</ArrayOfToy>
